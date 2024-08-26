@@ -1,0 +1,14 @@
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\bin\Debug\net6.0\TestSolution.exe
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\bin\Debug\net6.0\TestSolution.deps.json
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\bin\Debug\net6.0\TestSolution.runtimeconfig.json
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\bin\Debug\net6.0\TestSolution.dll
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\bin\Debug\net6.0\TestSolution.pdb
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\TestSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\TestSolution.AssemblyInfoInputs.cache
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\TestSolution.AssemblyInfo.cs
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\TestSolution.csproj.CoreCompileInputs.cache
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\TestSolution.dll
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\refint\TestSolution.dll
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\TestSolution.pdb
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\TestSolution.genruntimeconfig.cache
+E:\Documents\Makers Solutions\makers-backend\makers-backend-app\TestSolution\obj\Debug\net6.0\ref\TestSolution.dll
